@@ -1,1 +1,1 @@
-"# shasha-bot" 
+"# quiz-admin" 

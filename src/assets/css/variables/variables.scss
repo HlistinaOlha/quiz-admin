@@ -1,0 +1,47 @@
+@import "colors";
+@import "fonts";
+
+$container-max-width: 60rem;
+$item-padding: 0.9375rem;
+$td-padding: 1.25rem 0.75rem;
+$nav-link-padding: 0.75rem 1.5rem;
+$quiz-icon-width: 24px;
+$menu-icon-width: 24px;
+
+//$colors: (
+//        main:#5d92f4,
+//        main-text: #212529,
+//        secondary-text: #464d69,
+//        main-background: #f3f3f9,
+//        main-border: #ebedf2
+//);
+//
+//$fonts: (
+//        "Rubik": (
+//                "paths": (
+//                        normal: '~@/assets/fonts/Rubik-Regular.ttf',
+//                        medium: '~@/assets/fonts/Rubik-Medium.ttf',
+//                ),
+//                "weights": (
+//                        normal: 400,
+//                        medium: 500
+//                ),
+//                "sizes": (
+//                        main-text: 1rem,
+//                )
+//        )
+//);
+//
+////colors
+//$main-color: #5d92f4;
+//$main-text-color: #212529;
+//$secondary-text-color: #464d69; //.info
+//$main-background-color: #f3f3f9;
+//$main-border-color: #ebedf2;
+//
+////fonts
+//$font-normal-weight-path: '~@/assets/fonts/Rubik-Regular.ttf';
+//$font-medium-weight-path: '~@/assets/fonts/Rubik-Medium.ttf';
+//$font-weight-normal: 400;
+//$font-weight-medium: 500;
+//$main-font-size: 1rem;
